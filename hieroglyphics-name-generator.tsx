@@ -63,7 +63,7 @@ const HieroglyphicNameGenerator = () => {
               type="text"
               value={name}
               onChange={handleNameChange}
-              placeholder="Enter your name"
+              placeholder="Enter your first name"
               className="w-full p-2 border rounded"
             />
             <div className="text-2xl font-serif text-center min-h-[60px]">
